@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>qudpsender.png</file>
+    </qresource>
+</RCC>
